@@ -10,5 +10,5 @@ void main() {
 	mysetcolor(4, 0);
 	cout << "Salam" << endl;
 	mysetcolor(7, 0);
-	cout << "Salam" << endl;
+	cout << "Salam" << endl;	  
 }
