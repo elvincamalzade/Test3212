@@ -8,7 +8,7 @@ void mysetcolor(int fg, int bg) {
 void main() {
 	cout << "Salam" << endl;
 	mysetcolor(4, 0);
-	cout << "Salam" << endl;
+	cout << "Salam" << endl;					    
 	mysetcolor(7, 0);
 	cout << "Salam" << endl;	  
 }
